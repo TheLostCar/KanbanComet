@@ -1,27 +1,10 @@
-
-
-$color-primary: #3046C5;
-$color-secondary: #5637dd;
-$color-pale: #CEC8FF;
-$color-mid: #bd6b6b;
-$color-dark: #60106b;
-$color-black-transparent: rgba(0, 0, 0, 0.5);
+---
+---
 
 $body-font: "Open Sans", sans-serif;
-$header-font: "Lobster", cursive;
-
-$primary: #bd6b6b;
-
 
 .navbar {
     background-color: #ffffffd3;
 
     box-shadow: 0 10px 12px #28282885; //rgb/rgba equivalent will not compile
 }
-
-
-.navbar-nav .nav-item .nav-link {
-    color: #60106b
-}
-
-// @import url(https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css);

@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.804131mm"
-   height="12.556221mm"
-   viewBox="0 0 37.804131 12.556221"
+   width="25.800142mm"
+   height="8.5692301mm"
+   viewBox="0 0 37.80413 11.807886"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="logotestsmall.svg"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,17 +21,17 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.0482005"
-     inkscape:cx="58.671982"
-     inkscape:cy="19.557327"
+     inkscape:zoom="4.192802"
+     inkscape:cx="98.859903"
+     inkscape:cy="30.170755"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text7283-0"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -40,12 +40,16 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     units="mm"
+     width="37.80413mm"
+     scale-x="0.36458"
+     viewbox-width="90">
     <inkscape:grid
        type="xygrid"
        id="grid88967"
-       originx="-75.000016"
-       originy="-49.999954" />
+       originx="-103.86226"
+       originy="-69.271112" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -72,7 +76,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-75.00002,-49.999954)">
+     transform="translate(-75.00002,-50.397834)">
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -95,34 +99,36 @@
        transform="scale(0.26458333)"
        id="text6219"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6221);fill:#000000;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.4314px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.410783"
-       x="80.206116"
-       y="62.556175"
-       id="text7283"><tspan
-         id="tspan7281"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#000000;stroke-width:0.410783"
-         x="80.206116"
-         y="62.556175"
-         sodipodi:role="line">Comet</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8383px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.445956"
-       x="-75.47979"
-       y="-54.620342"
+    <g
+       aria-label="Comet"
+       id="text7283"
+       style="font-size:16.4314px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:0.410783">
+      <path
+         d="m 86.239521,61.665606 q 0,0.393134 -0.256741,0.641852 -0.256741,0.248717 -0.649875,0.248717 h -3.233327 q -0.393134,0 -0.641852,-0.248717 -0.248717,-0.248718 -0.248717,-0.641852 V 50.890523 q 0,-0.393134 0.248717,-0.641852 0.248718,-0.248717 0.641852,-0.248717 h 3.233327 q 0.393134,0 0.649875,0.248717 0.256741,0.248718 0.256741,0.641852 v 2.920425 H 85.11628 v -2.824147 h -2.792054 v 10.582527 h 2.792054 v -3.08891 h 1.123241 z"
+         id="path5974" />
+      <path
+         d="m 92.545712,61.64956 q 0,0.906615 -0.906615,0.906615 h -2.67973 q -0.898593,0 -0.898593,-0.906615 v -5.993289 q 0,-0.906616 0.898593,-0.906616 h 2.67973 q 0.906615,0 0.906615,0.906616 z m -1.067078,-0.03209 v -5.929104 h -2.350781 v 5.929104 z"
+         id="path5976" />
+      <path
+         d="m 102.13337,62.556175 h -1.06708 V 55.70441 l -2.32671,0.06418 v 6.78758 h -1.059055 v -6.85176 l -2.326712,0.06418 v 6.78758 h -1.067078 v -7.80652 h 1.067078 v 0.216625 q 0.625806,-0.08023 1.251611,-0.168486 0.762199,-0.09628 1.259634,-0.09628 0.489411,0 0.722083,0.296856 0.673944,-0.08826 1.339865,-0.184532 0.874524,-0.112324 1.323814,-0.112324 0.88255,0 0.88255,0.874522 z"
+         id="path5978" />
+      <path
+         d="m 108.23096,61.64956 q 0,0.906615 -0.89859,0.906615 h -2.56741 q -0.89859,0 -0.89859,-0.906615 v -5.993289 q 0,-0.906616 0.89859,-0.906616 h 2.56741 q 0.89859,0 0.89859,0.906616 v 2.8081 l -0.36104,0.377088 h -2.96857 v 2.824147 h 2.29462 v -1.42812 h 1.03499 z m -1.03499,-3.658554 v -2.350781 h -2.29462 v 2.350781 z"
+         id="path5980" />
+      <path
+         d="m 112.80415,62.556175 h -1.51637 q -0.89859,0 -0.89859,-0.906615 v -5.961197 h -0.93871 v -0.938708 h 0.93871 v -2.431012 h 1.05103 v 2.431012 h 1.36393 v 0.938708 h -1.36393 v 5.929104 h 1.36393 z"
+         id="path5982" />
+    </g>
+    <g
+       aria-label="K
+"
+       transform="scale(-1.0916505,-0.9160441)"
        id="text7283-0"
-       transform="scale(-1.0916505,-0.9160441)"><tspan
-         id="tspan7281-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ff6600;stroke-width:0.445956"
-         x="-75.47979"
-         y="-54.620342"
-         sodipodi:role="line">K</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ff6600;stroke-width:0.445956"
-         x="-75.47979"
-         y="-32.322468"
-         sodipodi:role="line"
-         id="tspan48850" /></text>
+       style="font-size:17.8383px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ff6600;stroke-width:0.445956">
+      <path
+         d="m -68.703326,-54.620342 h -1.332646 l -3.144349,-6.550001 v 6.550001 h -1.210705 v -13.631319 h 1.210705 v 6.123206 l 2.856915,-6.123206 h 1.315226 v 0.07839 l -3.083378,6.48903 z"
+         id="path6951" />
+    </g>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"

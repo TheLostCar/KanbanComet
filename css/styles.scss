@@ -3,8 +3,12 @@
 
 $body-font: "Open Sans", sans-serif;
 
+body {
+    font-family: $body-font;
+}
+
 .navbar {
     background-color: #ffffffd3;
 
-    box-shadow: 0 10px 12px #28282885; //rgb/rgba equivalent will not compile
+    box-shadow: 0 10px 12px #28282885;
 }

@@ -6,7 +6,7 @@ $(function () {
 
     getStartedInput.on('keyup', function () {
         // updates email value with every key press
-        getStartedForm.attr('action', `/signup.html?email=${this.value}`);
+        getStartedForm.attr('action', `signup.html?email=${this.value}`);
 
     })
 
